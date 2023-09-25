@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">application1</string>
+    <string name="button">Button</string>
+    <string name="name">Name</string>
+    <string name="ecofarmsmarket">ecofarmsmarket</string>
+    <string name="enter_yuor_username">Enter yuor username</string>
+</resources>
